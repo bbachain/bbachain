@@ -1,8 +1,12 @@
 [package]
-name = "cli"
-version = "0.1.0"
-edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+name = "bbachain-cli"
+description = "BBACHAIN CLI"
+documentation = "https://docs.rs/bbachain-cli"
+version.workspace = true
+authors.workspace = true
+repository.workspace = true
+homepage.workspace = true
+license.workspace = true
+edition.workspace = true
 
 [dependencies]
